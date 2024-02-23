@@ -1,0 +1,9 @@
+site_name: Vladimír Samojlov
+
+nav:
+  - Home: 'index.md'
+  - Maturita PG: 'maturita.md'
+  - WA hodina barev: 'hodina.md'
+
+
+theme: simple-blog
